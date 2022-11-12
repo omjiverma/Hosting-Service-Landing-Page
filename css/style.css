@@ -197,6 +197,7 @@ Navbar
     margin-top: 2rem;
     display: flex;
     justify-content:space-around;
+    flex-wrap: wrap;
 }
 
 .hero-btn-solid{
@@ -211,7 +212,7 @@ Navbar
 }
 
 .hero-img{
-    height: 400px;
+    height: 300px;
     margin: 0 auto;
 }
 .hero-info-numbers{
